@@ -1,4 +1,6 @@
-.idea
+*.idea
+*.xml
+*.iml
 out
 
 # Compiled class file
